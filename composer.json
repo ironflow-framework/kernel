@@ -1,0 +1,17 @@
+{
+    "name": "ironflow/kernel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ironflow\\Kernel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aure",
+            "email": "147180124+AureDulvresse@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
